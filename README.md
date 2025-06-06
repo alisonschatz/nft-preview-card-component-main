@@ -28,7 +28,7 @@ Este é um projeto de cartão de prévia NFT responsivo desenvolvido como parte 
 
 ### Online
 
-Acesse a versão online do projeto: **[Link do Deploy](#)**
+Acesse a versão online do projeto: **[Link do Deploy](https://nft-preview-card-component-main-ashy-chi.vercel.app/)**
 
 ### Localmente
 
